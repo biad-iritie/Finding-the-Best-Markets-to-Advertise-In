@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/miniconda3/envs/data_science/bin/python",
+    "jupyter.jupyterServerType": "remote"
+}
